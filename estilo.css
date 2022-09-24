@@ -1,0 +1,105 @@
+#formato_letra1{
+    color: aliceblue;
+   
+}
+#formato_letra2{
+    color: lightslategray;
+}
+#formato_letra3{
+    color: green;
+}
+
+
+#formato_header{
+    
+    text-align: right;
+    padding: 9em 2.5em 9em;
+    color: aliceblue;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(banner.jpg);
+    background-size:cover;
+    
+    background-repeat: no-repeat;
+    
+   }
+
+   
+
+   .titulo{
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;   
+}
+span{
+    padding: 3px;
+    margin: 1px;
+    border-radius: 10%;
+    font-size: small;
+}
+#formJ{
+    background-color:rgb(240, 209, 38);
+    color: black;
+    
+}
+
+#formR{
+    background-color: rgb(53, 153, 160);
+    color: aliceblue;
+}
+
+#formN{
+    background-color: grey;
+    color: aliceblue;
+}
+
+#formS{
+    background-color: red;
+    color: aliceblue;
+}
+
+
+
+#parrafo{
+    color: aliceblue;
+    padding: 0.5em;    
+}
+
+.card-body{
+    text-align: left;
+}
+
+u {    
+    border-bottom: 3px dotted #000;
+    text-decoration: none;
+}
+
+#btn{
+color: aliceblue;
+background-color: rgb(30, 207, 30);
+width: 100%;
+
+}
+
+
+
+.list-group-item{
+    background-color: darkslategrey;
+    color: aliceblue;
+    padding-top: 1.4em;
+    padding-bottom: 1.4em;
+    
+}
+  
+a {text-decoration: none;}
+a:link {color: aliceblue;}
+a:visited {color: aliceblue;}
+a:hover {color: aquamarine !important;}
+
+
+
+#footer{
+    background-color:rgb(45, 45, 78);
+    height: 100%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
